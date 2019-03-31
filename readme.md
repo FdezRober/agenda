@@ -1,3 +1,6 @@
+This is a personal agenda created in <a href="https://laravel.com/">Laravel</a> 5.8 using <a href="https://jquery.com/">jQuery<a/>, <a href="https://getbootstrap.com/docs/3.3/">Bootstrap</a>, <a href="https://adminlte.io/">AdminLTE<a> and <a href="https://alertifyjs.com/">alertifyjs.</a>
+Author: Roberto Fernández 
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">

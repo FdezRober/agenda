@@ -3,6 +3,8 @@
 /public/storage
 /storage/*.key
 /vendor
+/db_ag_v001.sql
+/system32.mwb
 .env
 .phpunit.result.cache
 Homestead.json
